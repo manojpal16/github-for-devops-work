@@ -3,3 +3,11 @@ git status
 git add
 git commit
 git restore
+
+
+
+git remote add origin github_link
+git remote -v
+git status
+
+git remote set-url origin htts://pat_toke@github.com//github_link.git
